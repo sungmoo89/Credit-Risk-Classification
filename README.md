@@ -13,13 +13,14 @@
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
+* Machine Learning Model 1:
 
 ![* Machine Learning Model 1:](<./img/ML1.png>)
 
     
     
     
-
+* Machine Learning Model 2:
 
 ![* Machine Learning Model 2:](<./img/ML2.png>)
 
